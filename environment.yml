@@ -1,0 +1,16 @@
+name: tcga
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - jupyterlab
+  - pip
+  - pip:
+      - lifelines
+      - scikit-survival
