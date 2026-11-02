@@ -1,0 +1,7 @@
+{
+  "model": "Cox age + stage (ridge 0.01)",
+  "n_patients": 1031,
+  "n_events": 139,
+  "cindex_cv_mean": 0.7393930471646755,
+  "cindex_cv_sd": 0.046422643840070624
+}
